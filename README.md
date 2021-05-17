@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ashirvadbhushan
 - 👀 I’m interested in Coding and Learning new things.
 - 🌱 I’m currently learning Web Development and Python.
-- 💞️ I’m looking to collaborate on interesting web development projects.
 - 📫 How to reach me ashirvadbhushan@gmail.com
 
 <!---
