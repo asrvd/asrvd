@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ashirvadbhushan
-- 👀 I’m interested in Coding and Learning new things.
-- 🌱 I’m currently learning Web Development and Python.
-- 📫 How to reach me ashirvadbhushan@gmail.com
+```
+- 👋 Hi, I’m Ashish!
+- 👀 I’m interested in coding, watching anime and learning new things.
+- 🌱 I’m currently learning web development, python and discord.py.
+```
 
 <!---
 ashirvadbhushan/ashirvadbhushan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
