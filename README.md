@@ -7,7 +7,7 @@
 
 ```python
 ashish = {
-  "pronouns": [he, him],
+  "pronouns": [He, Him],
   "code": [Javascript, HTML, CSS, Python],
   "tools": [Heroku, GitHub, VS Code, Replit],
   "interests": [Coding, Anime, Music],
