@@ -16,7 +16,7 @@ ashish = {
  "learning": "Java and C"
 }
 ```
-<img align='left' src="https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif" width="350" height="400">
+<img align='left' src="https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif" width="350" height="370">
 <h2 style="margin: 10px"> GitHub Stats </h2>
 
 <div align=center>
@@ -34,18 +34,18 @@ ashish = {
 
 <div align=center>
 <a>
-    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsheeshhSenpai&repo=Miko-Chan&show_icons=True&theme=tokyonight" height="150px">
+    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsheeshhSenpai&repo=Miko-Chan&show_icons=True&theme=tokyonight" height="100px">
 </a>
 <a>
-    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsheeshhSenpai&repo=Usui-San&show_icons=True&theme=tokyonight" height="150px">
+    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsheeshhSenpai&repo=Usui-San&show_icons=True&theme=tokyonight" height="100px">
 </a>
 </div>
 
 <div align=center>
 <a>
-    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsheeshhSenpai&repo=Eri-Chan&show_icons=True&theme=tokyonight" height="130px">
+    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsheeshhSenpai&repo=Eri-Chan&show_icons=True&theme=tokyonight" height="90px">
 </a>
 <a>
-    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KomiStudy&repo=KomiStudy.github.io&show_icons=True&theme=tokyonight" height="130px">
+    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KomiStudy&repo=KomiStudy.github.io&show_icons=True&theme=tokyonight" height="90px">
 </a> 
 </div>
