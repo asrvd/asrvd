@@ -7,11 +7,11 @@
 
 ```python
 ashish = {
-  "pronouns": ["he" | "him"],
+  "pronouns": [he , him],
   "code": [Javascript, HTML, CSS, Python],
   "tools": [Heroku, GitHub, VS Code, Replit],
-  "interests": ["Coding", "Anime", "Music"],
-  "creating": ["Websites", "Discord Bots"]
+  "interests": [Coding, Anime, Music],
+  "creating": [Websites, Discord Bots]
   
  "learning": "Java and C"
 }
