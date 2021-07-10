@@ -43,7 +43,7 @@ ashish = {
 
 <div align=center>
 <a>
-    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsheeshhSenpai&repo=Eri-Chan&show_icons=True&theme=tokyonight" height="90px">
+    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsheeshhSenpai&repo=Kanna-Chan&show_icons=True&theme=tokyonight" height="90px">
 </a>
 <a>
     <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KomiStudy&repo=KomiStudy.github.io&show_icons=True&theme=tokyonight" height="90px">
