@@ -11,7 +11,7 @@ ashish = {
   "code": [Javascript, HTML, CSS, Python],
   "tools": [Heroku, GitHub, VS Code, Replit],
   "interests": [Coding, Anime, Music],
-  "creating": [Websites, Discord Bots]
+  "creating": [Websites, Discord Bots],
   "learning": ["Java", "C"]
 }
 ```
