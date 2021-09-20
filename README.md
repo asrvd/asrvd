@@ -12,8 +12,9 @@ ashish = {
   "tools": [Heroku, GitHub, VS Code, Replit],
   "interests": [Coding, Anime, Music],
   "creating": [Websites, Discord Bots]
-  
- "learning": "Java and C"
+  "learning": {"Java",
+                "C"
+              }
 }
 ```
 <img align='left' src="https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif" width="350" height="370">
