@@ -20,10 +20,10 @@ ashish = {
 
 <div align=center>
 <a>
-    <img aligh="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsheeshhSenpai&show_icons=true&theme=tokyonight&count_private=true&layout=compact" height="150px">
+    <img aligh="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awsheeshh&show_icons=true&theme=tokyonight&count_private=true&layout=compact" height="150px">
 </a>
 <a>
-    <img aligh="left" src="https://github-readme-stats.vercel.app/api?username=AsheeshhSenpai&show_icons=true&theme=tokyonight&count_private=true" height="150px" width="350px">
+    <img aligh="left" src="https://github-readme-stats.vercel.app/api?username=awsheeshh&show_icons=true&theme=tokyonight&count_private=true" height="150px" width="350px">
 </a>  
 </div>
 
@@ -33,16 +33,16 @@ ashish = {
 
 <div align=center>
 <a>
-    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsheeshhSenpai&repo=Miko-Chan&show_icons=True&theme=tokyonight" height="100px">
+    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awsheeshh&repo=Miko-Chan&show_icons=True&theme=tokyonight" height="100px">
 </a>
 <a>
-    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsheeshhSenpai&repo=Usui-San&show_icons=True&theme=tokyonight" height="100px">
+    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awsheeshh&repo=Usui-San&show_icons=True&theme=tokyonight" height="100px">
 </a>
 </div>
 
 <div align=center>
 <a>
-    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsheeshhSenpai&repo=Kanna-Chan&show_icons=True&theme=tokyonight" height="90px">
+    <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awsheeshh&repo=Kanna-Chan&show_icons=True&theme=tokyonight" height="90px">
 </a>
 <a>
     <img aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KomiStudy&repo=KomiStudy.github.io&show_icons=True&theme=tokyonight" height="90px">
