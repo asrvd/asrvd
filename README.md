@@ -76,3 +76,7 @@
     <a href="https://discordapp.com/users/784363251940458516"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 </details>
+
+<div align="left">
+    <img width=100 height=20 src="https://komarev.com/ghpvc/?username=asheeeshh&style=flat-squarecolor=ffa6bf">
+</div>
