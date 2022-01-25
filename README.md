@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/Nona2Qq.png?1"/>
+    <img src="https://66.media.tumblr.com/2c502768b65142a25031a74cba7cf00a/tumblr_pc3gmxUtGJ1xrsyx1o1_1280.png"/>
 </p>
 <p align="center">
     桜の花 | Just a weeb who likes to code random shit.
@@ -52,6 +52,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white">
