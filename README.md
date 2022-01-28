@@ -10,7 +10,7 @@
 <h2 align="center">About Me</h2>
 <div align="center">
     <p>18 | ♂️ | Student | Weeb | Developer | Melophile</p>
-    <p>~ Current Favourite Song ~ <a href="https://open.spotify.com/track/19wWrIT06foPoKqW2lfUZQ?si=10d850d315dd4399">IHYN by F.N.</a> ~</p>
+    <img src="https://gitify-asheeshh.vercel.app/api?theme=dark">
 </div>
 
 ***
