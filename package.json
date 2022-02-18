@@ -1,0 +1,25 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "<p align=\"center\" style=\"color:blue\"><samp>asheeshh</samp></p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asheeeshh/profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asheeeshh/profile/issues"
+  },
+  "homepage": "https://github.com/asheeeshh/profile#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.12.0",
+    "js-base64": "^3.7.2",
+    "js-sha256": "^0.9.0"
+  }
+}
