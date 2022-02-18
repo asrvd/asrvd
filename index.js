@@ -1,11 +1,14 @@
 const { Octokit } = require("@octokit/rest");
 const { Base64 } = require("js-base64");
 const fetch = require("node-fetch");
-const { sha256 } = require("js-sha256").sha256;
-
+//const { sha256 } = require("js-sha256").sha256;
+require("dotenv").config();
+const {
+    GH_TOKEN: githubToken,
+} = process.env;
 
 const octokit = new Octokit({
-    auth: "token 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",
+    auth: `token ${githubToken}`,
 });
 
 async function main() {
