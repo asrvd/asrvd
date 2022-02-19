@@ -15,7 +15,7 @@ const octokit = new Octokit({
 async function main() {
     const sp_data = await fetch('https://spotify-np-api.vercel.app/api', {mode: 'cors'});
     const resp = await sp_data.json()
-    await constructContent(resp)
+    await constructContent(resp['top'])
     
 }
 
@@ -35,7 +35,7 @@ async function constructContent(response) {
             <a href="">rust</a> .
             <a href="">ruby</a> .
             <a href="">go</a></br>
-            <a href="${response.url}">spotify</a> .
+            <a href="${response.url}">top track</a> .
             <a href="${response.url}">${response.song.toLowerCase()}</a> .
             <a href="${response.url}">${response.artist.toLowerCase()}</a>
         </samp>
