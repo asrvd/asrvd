@@ -45,7 +45,7 @@ async function constructContent(response) {
     `
     const prevCont = await octokit.repos.getContent({
         owner: "asheeeshh",
-        repo: "profile",
+        repo: "asheeeshh",
         path: "README.md"
     })
     await updateRepo(Base64.encode(content.replace(/[`\t\n\r]+/g, '').trim()), prevCont.data.sha)
@@ -56,7 +56,7 @@ async function updateRepo(cont, hash) {
         const { data } = await octokit.repos.createOrUpdateFileContents({
             // replace the owner and email with your own details
             owner: "asheeeshh",
-            repo: "profile",
+            repo: "asheeeshh",
             path: "README.md",
             message: "update readme",
             content: cont,
