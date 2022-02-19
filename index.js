@@ -36,8 +36,8 @@ async function constructContent(response) {
             <a href="">ruby</a> .
             <a href="">go</a></br>
             <a href="${response.url}">spotify</a> .
-            <a href="${response.url}">${response.song.toLowerCase().replace(" ", "-")}</a> .
-            <a href="${response.url}">${response.artist.toLowerCase().replace(" ", "-")}</a>
+            <a href="${response.url}">${response.song.toLowerCase()}</a> .
+            <a href="${response.url}">${response.artist.toLowerCase()}</a>
         </samp>
         </p>
 
