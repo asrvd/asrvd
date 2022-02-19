@@ -21,6 +21,8 @@
     "@octokit/rest": "^18.12.0",
     "dotenv": "^16.0.0",
     "js-base64": "^3.7.2",
-    "js-sha256": "^0.9.0"
+    "js-sha256": "^0.9.0",
+    "wakatime": "^1.2.0",
+    "wakatime-client": "^2.7.0"
   }
 }
