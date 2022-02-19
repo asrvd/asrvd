@@ -32,6 +32,7 @@ async function all_time() {
 
 async function today() {
     client.summaries(new Date()).then(data => {
+        console.log(data)
         return data.cummulative_total.text
     })
 }
