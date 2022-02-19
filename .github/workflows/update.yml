@@ -18,3 +18,4 @@ jobs:
         run: node ./index.js
         env:
           GH_TOKEN: ${{ secrets.GiTHUB_TOKEN }}
+          WK_KEY: ${{ secrets.WK_KEY }}
