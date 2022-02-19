@@ -17,4 +17,4 @@ jobs:
       - name: Update gist
         run: node ./index.js
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GiTHUB_TOKEN }}
