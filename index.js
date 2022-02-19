@@ -23,7 +23,7 @@ async function main() {
 }
 
 async function all_time() {
-    client.stats('all_time').then(data => {
+    return client.stats('all_time').then(data => {
         return `
             ${Math.floor(data.data.total_seconds/3600)+150} hr ${Math.floor((data.data.total_seconds%3600)/60)} mins
         `
@@ -31,7 +31,7 @@ async function all_time() {
 }
 
 async function today() {
-    client.summaries(new Date()).then(data => {
+    return client.summaries(new Date()).then(data => {
         console.log(data)
         return data.cummulative_total.text
     })
@@ -56,10 +56,11 @@ async function constructContent(response) {
             <a href="${response.url}">top track</a> .
             <a href="${response.url}">${response.song.toLowerCase().replace(" ", "-")}</a> .
             <a href="${response.url}">${response.artist.toLowerCase().replace(" ", "-")}</a></br>
-            <a href="">total coding time</a> .
-            <a href="">${await all_time()}</a> .
-            <a href="">today</a> .
-            <a href="">${await today()}</a>
+            <a href="https://wakatime.com/@asheeshh">coding stats</a> .
+            <a href="https://wakatime.com/@asheeshh">all time</a> .
+            <a href="https://wakatime.com/@asheeshh">${await all_time()}</a> .
+            <a href="https://wakatime.com/@asheeshh">today</a> .
+            <a href="https://wakatime.com/@asheeshh">${await today()}</a>
         </samp>
         </p>
 
