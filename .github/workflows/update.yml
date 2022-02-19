@@ -5,7 +5,7 @@ on:
     branches: main
 
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "* */2 * * *"
 
 jobs:
   update-gist:
