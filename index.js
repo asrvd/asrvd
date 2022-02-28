@@ -54,7 +54,7 @@ async function constructContent(response) {
             <a href="">ruby</a> .
             <a href="">go</a></br>
             <a href="${response.url}">top track</a> .
-            <a href="${response.url}">${response.song.toLowerCase())}</a> .
+            <a href="${response.url}">${response.song.toLowerCase()}</a> .
             <a href="${response.url}">${response.artist.toLowerCase()}</a></br>
             <a href="https://wakatime.com/@asheeshh">coding stats</a> .
             <a href="https://wakatime.com/@asheeshh">all time</a> .
