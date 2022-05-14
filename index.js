@@ -43,18 +43,6 @@ async function constructContent(response) {
 
         <p align="center" style="color:blue">
         <samp>
-            <a href="">19</a> .
-            <a href="">solodev</a> .
-            <a href="">melophile</a> .
-            <a href="">weeb</a></br>
-            <a href="https://python.org/">python</a> .
-            <a href="https://nodejs.org/">javascript</a> .
-            <a href="https://reactjs.org/">react</a> .
-            <a href="https://nextjs.org/">nextjs</a> .
-            <a href="https://vuejs.org/">vue</a> .
-            <a href="https://rust-lang.org/">rust</a> .
-            <a href="https://ruby-lang.org/en/">ruby</a> .
-            <a href="https://go.dev/">go</a></br>
             <a href="${response.url}">top track</a> .
             <a href="${response.url}">${response.song.toLowerCase()}</a> .
             <a href="${response.url}">${response.artist.toLowerCase()}</a></br>
