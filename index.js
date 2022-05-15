@@ -55,6 +55,8 @@ async function constructContent(response) {
         </p>
 
         <p align="center" style="color:blue"><samp>桜の花</samp></p>
+        
+        <sub><samp><a href="https://asheeshh.ninja/about/">more about me..</a></samp></sub>
     `
     const prevCont = await octokit.repos.getContent({
         owner: "asheeeshh",
