@@ -59,8 +59,8 @@ async function constructContent(response) {
         <sub><samp><a href="https://asheeshh.ninja/about/">more about me</a> // <a href="https://dev.to/asheeshh">blog</a> // <a href="https://buymeacoffee.com/asheeshh">support my work</a></samp></sub>
     `
     const prevCont = await octokit.repos.getContent({
-        owner: "asheeeshh",
-        repo: "asheeeshh",
+        owner: "asrvd",
+        repo: "asrvd",
         path: "README.md"
     })
     //console.log(content)
@@ -71,8 +71,8 @@ async function updateRepo(cont, hash) {
     try {
         const { data } = await octokit.repos.createOrUpdateFileContents({
             // replace the owner and email with your own details
-            owner: "asheeeshh",
-            repo: "asheeeshh",
+            owner: "asrvd",
+            repo: "asrvd",
             path: "README.md",
             message: "update readme",
             content: cont,
